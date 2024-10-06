@@ -2,7 +2,7 @@
 
 Studio plugin for KK/KKS studio that adds a 'toggle wireframes' hotkey for xukmi projector items.
 
-This plugin will not add wireframes materials for you. Copy the main material with Material Editor and set its shader to SuperSystems/Wireframe-Transparent.
+This plugin will not add wireframe materials for you. Copy the main material with Material Editor and set its shader to SuperSystems/Wireframe-Transparent.
 
 Notice that changes will not be saved to the scene, unless explicitly set in Material Editor.
 
