@@ -6,7 +6,7 @@
 		<Version>1.0.0</Version>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<LangVersion>latest</LangVersion>
-		<RepositoryUrl></RepositoryUrl>
+		<RepositoryUrl>https://github.com/RSkoi/ProjectorWireframeHotkeys</RepositoryUrl>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
